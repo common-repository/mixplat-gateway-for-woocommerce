@@ -1,0 +1,460 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce mixplat Payments Gateway\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-04-21 08:42+0000\n"
+"PO-Revision-Date: 2023-08-07 11:43+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Loco-Version: 2.6.4; wp-6.2\n"
+"X-Domain: woocommerce-gateway-mixplatpayment-payments\n"
+
+#: includes/mixplatpayment_transactions.php:18
+msgid "- нет данных -"
+msgstr "- нет данных -"
+
+#: includes/class-wc-gateway-mixplatpayment.php:236
+msgid ""
+"185.77.233.27\n"
+"185.77.233.29"
+msgstr ""
+"185.77.233.27\n"
+"185.77.233.29"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://mixplat.ru"
+msgstr "https://mixplat.ru"
+
+#: includes/mixplatpayment_transactions.php:25
+msgid "Id заказа"
+msgstr "ID заказа"
+
+#: includes/mixplatpayment_transactions.php:24
+msgid "Id платежа"
+msgstr "ID платежа"
+
+#: includes/class-wc-gateway-mixplatpayment.php:174
+msgid "ID платежной формы"
+msgstr "ID платежной формы"
+
+#: includes/class-wc-gateway-mixplatpayment.php:169
+msgid "ID проекта"
+msgstr "ID проекта"
+
+#. Author of the plugin
+msgid "mixplat"
+msgstr "mixplat"
+
+#: includes/class-wc-gateway-mixplatpayment.php:119
+msgid "Mixplat does not support your store currency."
+msgstr "Выбранная вами валюта не поддерживается Миксплат."
+
+#. Description of the plugin
+msgid "Mixplat Payments Gateway"
+msgstr "Mixplat Payments Gateway"
+
+#: includes/class-wc-gateway-mixplatpayment.php:33
+msgid "Mixplat: Интернет эквайринг"
+msgstr "Mixplat: интернет-эквайринг"
+
+#: wc_mixplat.php:92
+msgid "Mixplat: транзакции"
+msgstr "Mixplat: транзакции"
+
+#. Name of the plugin
+msgid "WooCommerce mixplat Payments Gateway"
+msgstr "WooCommerce mixplat Payments Gateway"
+
+#: includes/class-wc-gateway-mixplatpayment.php:274
+#: includes/class-wc-gateway-mixplatpayment.php:288
+msgid "Без НДС"
+msgstr "Без НДС"
+
+#: includes/class-wc-gateway-mixplatpayment.php:137
+msgid "Включить оплату по карте"
+msgstr "Включить оплату по карте"
+
+#: includes/mixplatpayment_transactions.php:85
+msgid "Возврат"
+msgstr "Возврат"
+
+#: includes/class-wc-gateway-mixplatpayment.php:227
+msgid "Все адреса"
+msgstr "Все адреса"
+
+#: wc_mixplat.php:137
+msgid "Выполнено успешно"
+msgstr "Выполнено успешно"
+
+#: includes/class-wc-gateway-mixplatpayment.php:251
+msgid "Да"
+msgstr "Да"
+
+#: includes/mixplatpayment_transactions.php:27
+msgid "Дата транзакции"
+msgstr "Дата транзакции"
+
+#: includes/class-wc-gateway-mixplatpayment.php:218
+msgid "Двухэтапные платежи"
+msgstr "Двухэтапные платежи"
+
+#: includes/mixplatpayment_transactions.php:29
+msgid "Действие"
+msgstr "Действие"
+
+#: includes/class-wc-gateway-mixplatpayment.php:397
+msgid "Доставка"
+msgstr "Доставка"
+
+#: wc_mixplat.php:150
+msgid "Заказ не найден"
+msgstr "Заказ не найден"
+
+#: includes/class-wc-gateway-mixplatpayment.php:180
+msgid "Ключ API"
+msgstr "Ключ API"
+
+#: includes/class-wc-gateway-mixplatpayment.php:186
+msgid "Ключ платёжного виджета"
+msgstr "Ключ платёжного виджета"
+
+#: includes/class-wc-gateway-mixplatpayment.php:275
+#: includes/class-wc-gateway-mixplatpayment.php:289
+msgid "НДС 0%"
+msgstr "НДС 0%"
+
+#: includes/class-wc-gateway-mixplatpayment.php:276
+#: includes/class-wc-gateway-mixplatpayment.php:290
+msgid "НДС 10%"
+msgstr "НДС 10%"
+
+#: includes/class-wc-gateway-mixplatpayment.php:277
+#: includes/class-wc-gateway-mixplatpayment.php:291
+msgid "НДС 20%"
+msgstr "НДС 20%"
+
+#: includes/class-wc-gateway-mixplatpayment.php:284
+#: includes/class-wc-gateway-mixplatpayment.php:298
+msgid "НДС на доставку"
+msgstr "НДС на доставку"
+
+#: includes/class-wc-gateway-mixplatpayment.php:270
+msgid "НДС на товары"
+msgstr "НДС на товары"
+
+#: includes/class-wc-gateway-mixplatpayment.php:278
+#: includes/class-wc-gateway-mixplatpayment.php:292
+msgid "НДС чека по расчетной ставке 10/110"
+msgstr "НДС чека по расчетной ставке 10/110"
+
+#: includes/class-wc-gateway-mixplatpayment.php:279
+#: includes/class-wc-gateway-mixplatpayment.php:293
+msgid "НДС чека по расчетной ставке 20/120"
+msgstr "НДС чека по расчетной ставке 20/120"
+
+#: includes/class-wc-gateway-mixplatpayment.php:250
+msgid "Нет"
+msgstr "Нет"
+
+#: includes/class-wc-gateway-mixplatpayment.php:260
+msgid "Общая СН"
+msgstr "Общая СН"
+
+#: includes/class-wc-gateway-mixplatpayment.php:217
+msgid "Одноэтапные платежи"
+msgstr "Одноэтапные платежи"
+
+#: includes/mixplatpayment_transactions.php:116
+msgid "Ожидается оплата"
+msgstr "Ожидается оплата"
+
+#: includes/class-wc-gateway-mixplatpayment.php:240
+msgid "Описание платежа"
+msgstr "Описание платежа"
+
+#: includes/class-wc-gateway-mixplatpayment.php:243
+msgid "Оплата заказа %order_number%"
+msgstr "Оплата заказа %order_number%"
+
+#: includes/class-wc-gateway-mixplatpayment.php:34
+msgid "Оплата картой Visa/Masrercard/Мир"
+msgstr "Оплата картой Visa/Masrercard/Мир"
+
+#: includes/class-wc-gateway-mixplatpayment.php:151
+msgid "Оплата по карте"
+msgstr "Оплата по карте"
+
+#: includes/class-wc-gateway-mixplatpayment.php:32
+msgid "Оплатить"
+msgstr "Оплатить"
+
+#: includes/mixplatpayment_transactions.php:118
+msgid "Оплачен"
+msgstr "Оплачен"
+
+#: wc_mixplat.php:139
+msgid "Ошибка запроса:"
+msgstr "Ошибка запроса:"
+
+#: includes/class-wc-gateway-mixplatpayment.php:246
+msgid "Печать чека"
+msgstr "Печать чека"
+
+#: wc_mixplat.php:156
+msgid "Платеж не найден"
+msgstr "Платеж не найден"
+
+#: includes/mixplatpayment_transactions.php:114
+msgid "Платеж создан"
+msgstr "Платеж создан"
+
+#: wc_mixplat.php:92
+msgid "Платежные транзакции"
+msgstr "Платежные транзакции"
+
+#: includes/mixplatpayment_transactions.php:151
+msgid "Платёж авторизован"
+msgstr "Платёж авторизован"
+
+#: includes/mixplatpayment_transactions.php:129
+msgid "Платёж неуспешен: Не завершён предыдущий платёж"
+msgstr "Платёж неуспешен: Не завершён предыдущий платёж"
+
+#: includes/mixplatpayment_transactions.php:121
+msgid "Платёж неуспешен: Недостаточно средств у плательщика"
+msgstr "Платёж неуспешен: Недостаточно средств у плательщика"
+
+#: includes/mixplatpayment_transactions.php:127
+msgid "Платёж неуспешен: Отменён ТСП"
+msgstr "Платёж неуспешен: Отменён ТСП"
+
+#: includes/mixplatpayment_transactions.php:125
+msgid "Платёж неуспешен: Отменён плательщиком"
+msgstr "Платёж неуспешен: Отменён плательщиком"
+
+#: includes/mixplatpayment_transactions.php:123
+msgid "Платёж неуспешен: Ошибка платёжного шлюза"
+msgstr "Платёж неуспешен: Ошибка платёжного шлюза"
+
+#: includes/mixplatpayment_transactions.php:141
+msgid "Платёж неуспешен: Превышено время обработки платежа"
+msgstr "Платёж неуспешен: Превышено время обработки платежа"
+
+#: includes/mixplatpayment_transactions.php:133
+msgid "Платёж неуспешен: Превышено время ожидания подтверждения платежа плательщиком"
+msgstr "Платёж неуспешен: Превышено время ожидания подтверждения платежа плательщиком"
+
+#: includes/mixplatpayment_transactions.php:135
+msgid "Платёж неуспешен: Превышены лимиты оплат"
+msgstr "Платёж неуспешен: Превышены лимиты оплат"
+
+#: includes/mixplatpayment_transactions.php:137
+msgid "Платёж неуспешен: Прочая ошибка"
+msgstr "Платёж неуспешен: Прочая ошибка"
+
+#: includes/mixplatpayment_transactions.php:139
+msgid "Платёж неуспешен: Сумма платежа меньше минимально допустимой"
+msgstr "Платёж неуспешен: Сумма платежа меньше минимально допустимой"
+
+#: includes/mixplatpayment_transactions.php:131
+msgid "Платёж неуспешен: Услуга недоступна плательщику"
+msgstr "Платёж неуспешен: Услуга недоступна плательщику"
+
+#: includes/mixplatpayment_transactions.php:143
+msgid "Платёж обрабатывается: Ещё не выбран платёжный метод"
+msgstr "Платёж обрабатывается: Ещё не выбран платёжный метод"
+
+#: includes/mixplatpayment_transactions.php:147
+msgid "Платёж обрабатывается: Обрабатывается шлюзом"
+msgstr "Платёж обрабатывается: Обрабатывается шлюзом"
+
+#: includes/mixplatpayment_transactions.php:149
+msgid "Платёж обрабатывается: Ожидается ответ ТСП на CHECK-запрос"
+msgstr "Платёж обрабатывается: Ожидается ответ ТСП на CHECK-запрос"
+
+#: includes/mixplatpayment_transactions.php:145
+msgid "Платёж обрабатывается: Ожидание отправки в шлюз"
+msgstr "Платёж обрабатывается: Ожидание отправки в шлюз"
+
+#: wc_mixplat.php:109
+msgid "Поиск по заказам"
+msgstr "Поиск по заказам"
+
+#: includes/class-wc-gateway-mixplatpayment.php:313
+msgid "Признак предмета расчёта"
+msgstr "Признак предмета расчёта"
+
+#: includes/class-wc-gateway-mixplatpayment.php:335
+msgid "Признак предмета расчёта на доставку"
+msgstr "Признак предмета расчёта на доставку"
+
+#: includes/class-wc-gateway-mixplatpayment.php:208
+msgid "Рабочий"
+msgstr "Рабочий"
+
+#: includes/class-wc-gateway-mixplatpayment.php:223
+msgid "Разрешить запросы только с ip-адресов MIXPLAT"
+msgstr "Разрешить запросы только с ip-адресов Миксплат"
+
+#: includes/class-wc-gateway-mixplatpayment.php:203
+msgid "Режим работы"
+msgstr "Режим работы"
+
+#: includes/class-wc-gateway-mixplatpayment.php:256
+msgid "Система налогообложения"
+msgstr "Система налогообложения"
+
+#: includes/mixplatpayment_transactions.php:28
+msgid "Статус"
+msgstr "Статус"
+
+#: includes/mixplatpayment_transactions.php:26
+msgid "Сумма заказа"
+msgstr "Сумма заказа"
+
+#: includes/class-wc-gateway-mixplatpayment.php:213
+msgid "Сценарий работы"
+msgstr "Сценарий работы"
+
+#: includes/class-wc-gateway-mixplatpayment.php:207
+msgid "Тестовый"
+msgstr "Тестовый"
+
+#: includes/class-wc-gateway-mixplatpayment.php:228
+msgid "Только Mixplat"
+msgstr "Только Миксплат"
+
+#: includes/class-wc-gateway-mixplatpayment.php:142
+msgid "Укажите данный url в качестве коллбэка в настройках проекта"
+msgstr "Укажите данный url в качестве коллбэка в настройках проекта"
+
+#: includes/class-wc-gateway-mixplatpayment.php:192
+msgid "Форма оплаты"
+msgstr "Форма оплаты"
+
+#: includes/class-wc-gateway-mixplatpayment.php:304
+msgid "аванс"
+msgstr "аванс"
+
+#: includes/class-wc-gateway-mixplatpayment.php:327
+#: includes/class-wc-gateway-mixplatpayment.php:349
+msgid "агентское вознаграждение"
+msgstr "агентское вознаграждение"
+
+#: includes/class-wc-gateway-mixplatpayment.php:322
+#: includes/class-wc-gateway-mixplatpayment.php:344
+msgid "выигрыш азартной игры"
+msgstr "выигрыш азартной игры"
+
+#: includes/class-wc-gateway-mixplatpayment.php:324
+#: includes/class-wc-gateway-mixplatpayment.php:346
+msgid "выигрыш лотереи"
+msgstr "выигрыш лотереи"
+
+#: includes/class-wc-gateway-mixplatpayment.php:263
+msgid "единый налог на вмененный доход"
+msgstr "единый налог на вмененный доход"
+
+#: includes/class-wc-gateway-mixplatpayment.php:264
+msgid "единый сельскохозяйственный налог"
+msgstr "единый сельскохозяйственный налог"
+
+#: includes/class-wc-gateway-mixplatpayment.php:329
+#: includes/class-wc-gateway-mixplatpayment.php:351
+msgid "иной предмет расчета"
+msgstr "иной предмет расчета"
+
+#: includes/class-wc-gateway-mixplatpayment.php:323
+#: includes/class-wc-gateway-mixplatpayment.php:345
+msgid "лотерейный билет"
+msgstr "лотерейный билет"
+
+#: includes/class-wc-gateway-mixplatpayment.php:308
+msgid "оплата кредита"
+msgstr "оплата кредита"
+
+#: includes/class-wc-gateway-mixplatpayment.php:328
+#: includes/class-wc-gateway-mixplatpayment.php:350
+msgid "оставной предмет расчета"
+msgstr "оставной предмет расчета"
+
+#: includes/class-wc-gateway-mixplatpayment.php:265
+msgid "патентная СН"
+msgstr "патентная СН"
+
+#: includes/class-wc-gateway-mixplatpayment.php:307
+msgid "передача в кредит"
+msgstr "передача в кредит"
+
+#: includes/class-wc-gateway-mixplatpayment.php:196
+msgid "перенаправление в Mixplat"
+msgstr "перенаправление в Миксплат"
+
+#: includes/class-wc-gateway-mixplatpayment.php:326
+#: includes/class-wc-gateway-mixplatpayment.php:348
+msgid "платеж"
+msgstr "платеж"
+
+#: includes/class-wc-gateway-mixplatpayment.php:197
+msgid "платёжный виджет"
+msgstr "платёжный виджет"
+
+#: includes/class-wc-gateway-mixplatpayment.php:318
+#: includes/class-wc-gateway-mixplatpayment.php:340
+msgid "подакцизный товар"
+msgstr "подакцизный товар"
+
+#: includes/class-wc-gateway-mixplatpayment.php:302
+msgid "полная предоплата"
+msgstr "полная предоплата"
+
+#: includes/class-wc-gateway-mixplatpayment.php:305
+msgid "полный расчёт"
+msgstr "полный расчёт"
+
+#: includes/class-wc-gateway-mixplatpayment.php:325
+#: includes/class-wc-gateway-mixplatpayment.php:347
+msgid "предоставление результатов интеллектуальной деятельности"
+msgstr "предоставление результатов интеллектуальной деятельности"
+
+#: includes/class-wc-gateway-mixplatpayment.php:319
+#: includes/class-wc-gateway-mixplatpayment.php:341
+msgid "работа"
+msgstr "работа"
+
+#: includes/class-wc-gateway-mixplatpayment.php:321
+#: includes/class-wc-gateway-mixplatpayment.php:343
+msgid "ставка азартной игры"
+msgstr "ставка азартной игры"
+
+#: includes/class-wc-gateway-mixplatpayment.php:317
+#: includes/class-wc-gateway-mixplatpayment.php:339
+msgid "товар"
+msgstr "товар"
+
+#: includes/class-wc-gateway-mixplatpayment.php:262
+msgid "упрощенная СН (доходы минус расходы)"
+msgstr "упрощенная СН (доходы минус расходы)"
+
+#: includes/class-wc-gateway-mixplatpayment.php:261
+msgid "упрощенная СН (доходы)"
+msgstr "упрощенная СН (доходы)"
+
+#: includes/class-wc-gateway-mixplatpayment.php:320
+#: includes/class-wc-gateway-mixplatpayment.php:342
+msgid "услуга"
+msgstr "услуга"
+
+#: includes/class-wc-gateway-mixplatpayment.php:303
+msgid "частичная предоплата"
+msgstr "частичная предоплата"
+
+#: includes/class-wc-gateway-mixplatpayment.php:306
+msgid "частичный расчёт и кредит"
+msgstr "частичный расчёт и кредит"
